@@ -3,4 +3,48 @@ class ApplicationController < ActionController::Base
   # For APIs, you may want to use :null_session instead.
   protect_from_forgery with: :exception
     
+    # This is a page full of comments
+        # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+    # This is a page full of comments
+
 end
